@@ -47,5 +47,12 @@ Pantelis, P.C., Cholewiak, S. A., Ringstad, P., Sanik, K., Weinstein, A., Wu, C.
 Wu, C.-C., Kwon, O. S., & Kowler, E. (2010). Fitts's Law and speed/accuracy trade-offs during sequences of saccades: Implications for strategies of saccadic planning. Vision Research, 50, 2142-2157.
  
 Under review 
-===============
+=============
+Gupta,SK., Zhang, M. Wu, C.-C., Wolfe, J.M., Kreiman, G.  Visual Search Asymmetry: Deep Nets and Humans Share Similar Inherent Biases-  arXiv preprint arXiv:2106.02953,
+Wu, C.-C., Wolfe, J.M.  The Functional Visual Field(s) in simple visual search
 Wu, C.-C., Attar, N., & Pomplun, M.  Involuntary semantic bias in search for words and word pairs.
+Wolfe, J.M., Wu, C.-C., Li, J., Suresh, S.   What do experts look at and what do experts find when reading mammograms?
+
+
+
+
