@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+Find the full list of my publications [HERE](https://scholar.google.com/citations?hl=en&user=dqokykoAAAAJ&view_op=list_works&sortby=pubdate)
+
 Wu, C.-C., D'Ardenne, N. M., Nishikawa, R. M., & Wolfe, J. M. (2019).Gist processing in digital breast tomosynthesis," Journal of Medical Imaging. 7(2), 022403 , doi: 10.1117/1.JMI.7.2.022403.
 
 Wu, C.-C. & Wolfe, J.M. (2019). Eye Movements in Medical Image Perception: A Selective Review of Past, Present and Future. Vision, 3, 32.
