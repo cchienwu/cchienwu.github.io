@@ -46,4 +46,6 @@ Pantelis, P.C., Cholewiak, S. A., Ringstad, P., Sanik, K., Weinstein, A., Wu, C.
 
 Wu, C.-C., Kwon, O. S., & Kowler, E. (2010). Fitts's Law and speed/accuracy trade-offs during sequences of saccades: Implications for strategies of saccadic planning. Vision Research, 50, 2142-2157.
  
-Wu, C.-C., Attar, N., & Pomplun, M. (under review). Involuntary semantic bias in search for words and word pairs.
+Under review 
+===============
+Wu, C.-C., Attar, N., & Pomplun, M.  Involuntary semantic bias in search for words and word pairs.
