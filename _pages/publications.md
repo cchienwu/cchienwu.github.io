@@ -8,7 +8,9 @@ author_profile: true
 
 Find the full list of my publications [HERE](https://scholar.google.com/citations?hl=en&user=dqokykoAAAAJ&view_op=list_works&sortby=pubdate)
 
-**Wu, C.-C.**, D'Ardenne, N. M., Nishikawa, R. M., & Wolfe, J. M. (2019).Gist processing in digital breast tomosynthesis," Journal of Medical Imaging. 7(2), 022403 , doi: 10.1117/1.JMI.7.2.022403.
+Wolfe, J.M., **Wu, C.-C.**, Li, J., Suresh, S. (Accepted)  What do experts look at and what do experts find when reading mammograms? Journal of Medical Imaging.
+
+**Wu, C.-C.**, D'Ardenne, N. M., Nishikawa, R. M., & Wolfe, J. M. (2020).Gist processing in digital breast tomosynthesis," Journal of Medical Imaging. 7(2), 022403 , doi: 10.1117/1.JMI.7.2.022403.
 
 **Wu, C.-C.** & Wolfe, J.M. (2019). Eye Movements in Medical Image Perception: A Selective Review of Past, Present and Future. Vision, 3, 32.
 
@@ -53,8 +55,6 @@ Gupta,SK., Zhang, M. Wu, C.-C., Wolfe, J.M., Kreiman, G.  Visual Search Asymmetr
 **Wu, C.-C.**, Wolfe, J.M.  The Functional Visual Field(s) in simple visual search
 
 **Wu, C.-C.**, Attar, N., & Pomplun, M.  Involuntary semantic bias in search for words and word pairs.
-
-Wolfe, J.M., **Wu, C.-C.**, Li, J., Suresh, S.   What do experts look at and what do experts find when reading mammograms?
 
 
 
